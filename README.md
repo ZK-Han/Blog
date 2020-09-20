@@ -1,4 +1,4 @@
-# ZK_Han'Blog
+# Blog
 
 [OpenGL环境配置](./OpenGL环境配置.md)
 
