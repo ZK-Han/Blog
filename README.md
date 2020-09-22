@@ -1,5 +1,7 @@
 # Blog
 
+<i class="./pages-themes/favicon.ico"></i>
+
 [OpenGL环境配置](./OpenGL环境配置.md)
 
 [OpenCV环境配置](./OpenCV环境配置.md)
